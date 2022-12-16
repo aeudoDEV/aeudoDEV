@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Zanarkand-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="right" alt="Zanarkand-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/Dhxq1MaXkAA_8lR?format=jpg&name=small">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
 </div>
   
   ##
