@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   <img align="right" alt="Zanarkand-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/Dhxq1MaXkAA_8lR?format=jpg&name=small">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <img align="center" alt="Zanarkand-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="Zanarkand-Docker" height="30" width="40" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 </div>
   
   ##
