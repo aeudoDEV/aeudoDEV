@@ -25,13 +25,11 @@ Here are some ideas to get you started:
   <img align="center" alt="Zanarkand-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Zanarkand-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Zanarkand-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Zanarkand-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
-  <img align="center" alt="Zanarkand-Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nest/nest-original.svg">
-  <img align="center" alt="Zanarkand-Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
   <img align="center" alt="Zanarkand-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Zanarkand-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Zanarkand-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="right" alt="Zanarkand-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/Dhxq1MaXkAA_8lR?format=jpg&name=small">
+  https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </div>
   
